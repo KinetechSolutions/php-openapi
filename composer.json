@@ -1,8 +1,8 @@
 {
-	"name": "devizzent/cebe-php-openapi",
+	"name": "kinetech/cebe-php-openapi",
 	"description": "Read and write OpenAPI yaml/json files and make the content accessable in PHP objects.",
 	"keywords": ["openapi"],
-	"homepage": "https://github.com/DEVizzent/cebe-php-openapi#readme",
+	"homepage": "https://github.com/KinetechSolutions/php-openapi#readme",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
@@ -15,11 +15,16 @@
 		{
 			"name": "Vicent Valls",
 			"email": "vizzent@gmail.com"
+		},
+		{
+			"name": "Aaron Croissette",
+			"email": "aaron@kinetech.llc",
+			"homepage": "https://kinetech.llc/"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/DEVizzent/cebe-php-openapi/issues",
-		"source": "https://github.com/DEVizzent/cebe-php-openapi"
+		"issues": "https://github.com/KinetechSolutions/php-openapi/issues",
+		"source": "https://github.com/KinetechSolutions/php-openapi"
 	},
 	"require": {
 		"php": ">=7.1.0",
