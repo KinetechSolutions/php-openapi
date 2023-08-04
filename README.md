@@ -13,14 +13,14 @@ Supported OpenAPI versions:
 - 3.0.x
 - 3.1.x
 
-[![Latest Stable Version](https://poser.pugx.org/devizzent/cebe-php-openapi/v/stable)](https://packagist.org/packages/devizzent/cebe-php-openapi)
-[![Total Downloads](https://poser.pugx.org/devizzent/cebe-php-openapi/downloads)](https://packagist.org/packages/devizzent/cebe-php-openapi)
-[![Build Status](https://github.com/devizzent/cebe-php-openapi/workflows/CI/badge.svg)](https://github.com/devizzent/cebe-php-openapi/actions)
+[![Latest Stable Version](https://poser.pugx.org/kinetech/php-openapi/v/stable)](https://packagist.org/packages/kinetech/php-openapi)
+[![Total Downloads](https://poser.pugx.org/kinetech/php-openapi/downloads)](https://packagist.org/packages/kinetech/php-openapi)
+[![Build Status](https://github.com/kinetech/php-openapi/workflows/CI/badge.svg)](https://github.com/kinetech/php-openapi/actions)
 
 
 ## Install
 
-    composer require devizzent/cebe-php-openapi
+    composer require kinetech/php-openapi
 
 ## Requirements
 
@@ -31,7 +31,7 @@ Supported OpenAPI versions:
 This library provides a low level API for reading and writing OpenAPI files. It is used by higher level tools to
 do awesome work:
 
-- ... ([add yours](https://github.com/devizzent/cebe-php-openapi/edit/master/README.md#L24))
+- ... ([add yours](https://github.com/kinetech/php-openapi/edit/master/README.md#L24))
 
 ## Usage
 
