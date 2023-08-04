@@ -1,5 +1,5 @@
 {
-	"name": "kinetech/cebe-php-openapi",
+	"name": "kinetech/php-openapi",
 	"description": "Read and write OpenAPI yaml/json files and make the content accessable in PHP objects.",
 	"keywords": ["openapi"],
 	"homepage": "https://github.com/KinetechSolutions/php-openapi#readme",
