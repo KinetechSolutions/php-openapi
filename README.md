@@ -1,8 +1,4 @@
-## Atention
-This is a fork of [cebe/php-openapi](https://github.com/cebe/php-openapi). I created it as library because the pull request
-of the openapi3.1 was taking years and a lot of developers want to use it.
-
-# php-openapi
+# kinetech/php-openapi
 
 Read and write [OpenAPI](https://www.openapis.org/) 3.x YAML and JSON files and make the content accessible in PHP objects.
 
@@ -15,8 +11,11 @@ Supported OpenAPI versions:
 
 [![Latest Stable Version](https://poser.pugx.org/kinetech/php-openapi/v/stable)](https://packagist.org/packages/kinetech/php-openapi)
 [![Total Downloads](https://poser.pugx.org/kinetech/php-openapi/downloads)](https://packagist.org/packages/kinetech/php-openapi)
-[![Build Status](https://github.com/kinetech/php-openapi/workflows/CI/badge.svg)](https://github.com/kinetech/php-openapi/actions)
+[![Build Status](https://github.com/kinetechsolutions/php-openapi/workflows/CI/badge.svg)](https://github.com/kinetechsolutions/php-openapi/actions)
 
+This is a fork of a fork of [cebe/php-openapi](https://github.com/cebe/php-openapi).
+
+I created it because I wanted to use someone else's improvements without worrying about someone else managing the dependency.
 
 ## Install
 
